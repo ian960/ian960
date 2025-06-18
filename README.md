@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Ian Albuquerque!
 
-[![GitHub followers](https://img.shields.io/github/followers/ian960?style=social)](https://github.com/ian960)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian960&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
