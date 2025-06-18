@@ -5,8 +5,8 @@
 
 ---
 
-## 🧑‍💻 Sobre mim:
-- 🌱 Atualmente estudando:  
+## Sobre mim:
+-  Atualmente estudando:  
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)  
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)  
   ![JPA / Hibernate](https://img.shields.io/badge/JPA/Hibernate-blue?style=flat&logo=hibernate)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
+##  Tecnologias e Ferramentas:
 
 - Linguagens:  
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)  
