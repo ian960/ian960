@@ -26,7 +26,7 @@
 - Frameworks:  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)  
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)  
-  ![React](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)  
 
 
