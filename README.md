@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ian Albuquerque!
+# 👋 Olá! Eu sou Ian Albuquerque!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian960&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
